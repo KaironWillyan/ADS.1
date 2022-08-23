@@ -1,0 +1,11 @@
+1. Ler Número da Prova
+2. Ler quantidade de Nadadores
+3. Enquanto o número da prova e a quantidade de nadadores não for 0
+    -Leia nome do nadador
+    -Classificação do nadador
+    -Tempo
+    -Clube ('a' ou 'b')
+    -vefiricar pontos de acordo com a colocação
+    -pegar quantidade de pontos por Clube
+4. Mostrar clube vencedor
+5. Mostrar total de pontos por Clube

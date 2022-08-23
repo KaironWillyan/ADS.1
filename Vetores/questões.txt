@@ -1,0 +1,27 @@
+1. Leia um vetor A com N elementos e escreva um vetor B, com os mesmos elementos de A, sendo que
+estes deverão estar invertidos, ou seja, o 1o elemento de A deve ser o último elemento de B; o 2o
+elemento de A deve ser o penúltimo elemento de B e assim por diante.
+
+2. Leia um vetor A com N elementos, verifique e escreva se existem ou não elementos iguais no vetor.
+
+3. Leia 2 vetores A e B com N elementos, escreva um vetor C, sendo este a junção dos vetores A e B.
+Desta forma, o vetor C deverá ter 2*N elementos.
+
+4. Leia 2 vetores A e B com N elementos, escreva e escreva um vetor C, que represente o conjunto união
+entre os vetores A e B; e um vetor D, que represente o conjunto interseção entre os vetores A e B.
+
+5. Leia um vetor A com 20 elementos, calcule e escreva o valor de S.
+S = (A[1] - A[20])2 + (A[2] - A[19])2 + ... + (A[9] - A[12])2 + (A[10] - A[11])2
+
+6. Leia um número (vetor com 8 elementos) na base binária, calcule e escreva este número na base
+hexadecimal e na base decimal.
+
+7. Leia um vetor A de N elementos e escreva um vetor B de N elementos, conforme a seguinte condição:
+se índice de A[índice] é par então B[índice] = 0, caso contrário B[índice] = 1.
+
+8. Leia um vetor com N elementos, encontre e escreva o maior e o menor elemento e suas respectivas
+posições no vetor.
+
+9. Leia um vetor com N elementos, ordene-o e escreva-o em ordem crescente.
+
+10. Escreva os N primeiros termos da seqüência de Fibonacci (0,1,1,2,3,5,8,13,21,...). .
